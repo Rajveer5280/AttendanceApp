@@ -7,4 +7,3 @@
 ### -> Java is used as a programming language.
 
 ### -> Google API is used to login in the Application.
-
